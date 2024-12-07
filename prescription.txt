@@ -1,0 +1,23 @@
+Patient ID: 121
+Name: MUHAMMAD HASSAN
+Symptoms: FEVER
+Blood Type: O+
+Temperature: 87
+Blood Pressure: 180/100
+Heart Rate: 76
+Medicine: Panadol
+Medicine: Aspirin
+Medicine: Zeryrtic
+Medicine: Azomax
+
+Patient ID: 121
+Name: SAIM ARIF KHAN
+Symptoms: FEVER
+Blood Type: O+
+Temperature: 87
+Blood Pressure: 180/100
+Heart Rate: 76
+Medicine: Panadol
+Medicine: Aspirin
+Medicine: Zerytic
+

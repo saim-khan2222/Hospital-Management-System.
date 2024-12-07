@@ -1,0 +1,84 @@
+Patient ID: 121
+Laboratory Test Cost: $1500
+Medicine Cost: $324
+Hospital Fee: $1000.00
+Bed Fee: $500.00
+Emergency Fee: $500.00
+Total Bill: $3824
+
+Patient ID: 121
+Laboratory Test Cost: $0
+Medicine Cost: $0
+Hospital Fee: $1000.00
+Bed Fee: $500.00
+Total Bill: $1500
+
+Patient ID: 121
+Laboratory Test Cost: $0
+Medicine Cost: $0
+Hospital Fee: $1000.00
+Bed Fee: $500.00
+Total Bill: $1500
+
+Patient ID: 121
+Laboratory Test Cost: $1500
+Medicine Cost: $0
+Hospital Fee: $1000.00
+Bed Fee: $500.00
+Emergency Fee: $500.00
+Total Bill: $3500
+
+Patient ID: 121
+Laboratory Test Cost: $0
+Medicine Cost: $0
+Hospital Fee: $1000.00
+Bed Fee: $500.00
+Emergency Fee: $500.00
+Total Bill: $1500
+
+Patient ID: 121
+Laboratory Test Cost: $0
+Medicine Cost: $0
+Hospital Fee: $1000.00
+Bed Fee: $500.00
+Emergency Fee: $500.00
+Total Bill: $1500
+
+Patient ID: 20
+Laboratory Test Cost: $3500
+Medicine Cost: $84
+Hospital Fee: $1000.00
+Bed Fee: $500.00
+Emergency Fee: $500.00
+Total Bill: $5584
+
+Patient ID: 121
+Laboratory Test Cost: $3500
+Medicine Cost: $120
+Hospital Fee: $1000.00
+Bed Fee: $500.00
+Emergency Fee: $500.00
+Total Bill: $5620
+
+Patient ID: 121
+Laboratory Test Cost: $2000
+Medicine Cost: $0
+Hospital Fee: $1000.00
+Bed Fee: $500.00
+Total Bill: $3500
+
+Patient ID: 121
+Laboratory Test Cost: $1500
+Medicine Cost: $0
+Hospital Fee: $1000.00
+Bed Fee: $500.00
+Total Bill: $3000
+
+Patient ID: 121
+Laboratory Test Cost: $1500
+Medicine Cost: $12
+Hospital Fee: $1000.00
+Bed Fee: $500.00
+Emergency Fee: $500.00
+Total Bill: $3512
+

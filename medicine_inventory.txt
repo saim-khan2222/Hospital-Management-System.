@@ -1,0 +1,5 @@
+Panadol 12
+Aspirin 15
+panadol 12
+aspirin 15
+pandol 250

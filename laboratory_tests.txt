@@ -1,0 +1,7 @@
+Heart 1500
+Lungs 2000
+X-Ray 500
+blood test 2200
+Cholestrol LIPID PROFILE TEST 2500
+thyroid 45555
+diabetes 2300
